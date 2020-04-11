@@ -156,7 +156,7 @@ def findPath(n):
 
     for row in Lines:
         printLines(row)
-    print("\n",len(Lines))
+    print("\nTotal Number of Lines: ",len(Lines))
 
     
 #Entry point of the Program
